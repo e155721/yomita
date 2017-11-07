@@ -738,7 +738,6 @@ for( loopNumber = 0 ; loopNumber< simg.length ; loopNumber++ ) {
 		authorList.push(simg[loopNumber].replace(reg5,"$1"));
 		authorCount++;
 	}
-}
 
 // 受け渡し処理
 simgCopyLength = simg2.length;
